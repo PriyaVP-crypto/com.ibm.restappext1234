@@ -24,7 +24,7 @@
     <dependency>
         <groupId>com.ibm.cics</groupId>
         <artifactId>com.ibm.cics.server.invocation.annotations</artifactId>
-        <version>5.5</version>
+        <version>5.5-PH14856</version>
         <scope>provided</scope>
     </dependency>
 </dependencies>   
