@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<linkableTargets xmlns="http://www.ibm.com/xmlns/prod/cics/link" xmlns:ns2="http://www.ibm.com/xmlns/prod/CICS/smw2int">
+    <linkableTargetMetadata className="com.ibm.cicsdev.restappext.LinkToTransaction">
+        <method name="performAction"/>
+        <bean name="LinkBean_dd8de592bf3c239167be038ff067ed44" proxy="true"/>
+        <ns2:cicsdefinitionprogram name="L2LTRAN"/>
+    </linkableTargetMetadata>
+</linkableTargets>

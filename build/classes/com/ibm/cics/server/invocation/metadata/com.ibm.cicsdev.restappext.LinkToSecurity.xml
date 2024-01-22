@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<linkableTargets xmlns="http://www.ibm.com/xmlns/prod/cics/link" xmlns:ns2="http://www.ibm.com/xmlns/prod/CICS/smw2int">
+    <linkableTargetMetadata className="com.ibm.cicsdev.restappext.LinkToSecurity">
+        <method name="getSecurityInfo"/>
+        <bean name="LinkBean_a815c7d42e3f165f3dfe095a604315ae" proxy="true"/>
+        <ns2:cicsdefinitionprogram name="L2LSEC"/>
+    </linkableTargetMetadata>
+</linkableTargets>
