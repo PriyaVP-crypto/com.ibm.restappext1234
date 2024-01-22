@@ -42,7 +42,7 @@
                 <groupId>com.ibm.cics</groupId>
                 <artifactId>com.ibm.cics.server.invocation</artifactId>
                 <version>5.5</version>
-            <annotationProcessorPath>
+            </annotationProcessorPath>
         </annotationProcessorPaths>
     </configuration>	    
 	  
